@@ -1,6 +1,6 @@
 language: python
 sudo: true
-python
+python:
   - "3.5"
   - "3.6"
 
